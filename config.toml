@@ -1,0 +1,8 @@
+baseURL = "https://ie.u-ryukyu.ac.jp/e205515"
+title = 'My New Hugo Site'
+theme = "hugo-theme-notrack"
+languageCode = "ja"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+mainSections = ["blog"]
+
